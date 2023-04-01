@@ -12,6 +12,6 @@ using the test set.
 The model predictions for the last 687 days is then placed into PostgreSQL and passed to Power BI to create a visualization containing the
 predicted closing share values over time, the actual closing share values over time, and a superimposed graph of the two meant to demonstrate
 the degree of precision of the time-series model.
-## Folder
+## Folders
 The Power BI visualiation is provided in the visualizations folder, the data is provided in the data folder, and the saved model is provided
 in the models folder.
